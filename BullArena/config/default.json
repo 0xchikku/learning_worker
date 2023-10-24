@@ -1,0 +1,13 @@
+{
+  "hostId": "localhost",
+  "prefix": "bull",
+  "redis": {
+    "nodes": [
+      {
+        "host": "localhost",
+        "port": 6379
+      }
+    ]
+  },
+  "options": {}
+}
