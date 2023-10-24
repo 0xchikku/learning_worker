@@ -1,0 +1,40 @@
+# Compiled files
+*.class
+*.o
+*.pyc
+
+# Dependency directories
+node_modules/
+vendor/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Temporary files and directories
+.tmp/
+.temp/
+.temp-*
+
+# Build output directories
+build/
+dist/
+
+# Configuration files with sensitive information
+config.ini
+secrets.yml
+
+# Personal files and directories
+personal/
+private/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Compiled executables
+*.exe
+*.dll

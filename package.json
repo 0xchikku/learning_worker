@@ -1,0 +1,22 @@
+{
+  "name": "learning_worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xchikku/learning_worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xchikku/learning_worker/issues"
+  },
+  "homepage": "https://github.com/0xchikku/learning_worker#readme",
+  "dependencies": {
+    "bull": "^4.11.4"
+  }
+}
